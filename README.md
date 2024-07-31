@@ -26,6 +26,8 @@ LlamaToolkit <mode> <arguments>
 
 ### Decrypt
 
+You can use the GUI for this, open the LlamaToolkitGUI.py and in the setup tab tell it where is the program, then you free to decrypt whole folders in one go.
+
 Only `.k9a` files can be decrypted. The filenames of all encrypted files must be unchanged.
 
 Arguments:

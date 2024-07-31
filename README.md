@@ -7,9 +7,12 @@
 
 A decompilation toolkit for The Coffin of Andy and Leyley.
 
+
 ### Prerequisites
 
 To run the compiled binaries, you need the .NET 8.0 Runtime to be installed.
+And Python 3 or higher.
+And tkinter.
 
 You need a Node.js installation to use the deobfuscator.
 
